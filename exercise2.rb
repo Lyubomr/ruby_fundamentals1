@@ -1,9 +1,9 @@
 
 # First problem.
 puts "Please eneter your tip %"
-tip = gets.chomp.to_f
-tip /= 100
-bill_value = 55
+ tip = gets.chomp.to_f
+  tip /= 100
+ bill_value = 55
 puts " Your tip total is #{tip * bill_value}"
 
 
